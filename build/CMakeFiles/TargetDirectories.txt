@@ -1,0 +1,3 @@
+/home/secops/projects/sources/vulnerable_cpp_project/build/CMakeFiles/vulnerable_cpp.dir
+/home/secops/projects/sources/vulnerable_cpp_project/build/CMakeFiles/edit_cache.dir
+/home/secops/projects/sources/vulnerable_cpp_project/build/CMakeFiles/rebuild_cache.dir

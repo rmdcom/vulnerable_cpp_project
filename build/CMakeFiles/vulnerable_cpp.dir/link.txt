@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/vulnerable_cpp.dir/main.cpp.o -o vulnerable_cpp  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/libxml2.so /usr/lib/x86_64-linux-gnu/libsqlite3.so /usr/lib/x86_64-linux-gnu/libexpat.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
